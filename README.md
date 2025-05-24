@@ -11,8 +11,8 @@
 <br>
 
 <div style="display:inline-block;" align=center>
-<div style="margin: 15px; display: inline-block;">
-    <kbd style="margin: 10px; display: inline-block;">
+<div style="margin: 10px; display: inline-block;">
+    <kbd>
         <kbd>Tecnologías aprendidas en la universidad</kbd>
         <br>
         <br>
