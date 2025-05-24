@@ -11,7 +11,7 @@
 <br>
 
 <div style="display:inline-block;" align=center>
-    <kbd style="margin: 5px;">
+    <kbd margin="15px">
         <kbd>Tecnologías aprendidas en la universidad</kbd>
         <br>
         <br>
@@ -21,7 +21,7 @@
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
         <img width="50" src="https://img.icons8.com/fluency/48/pascal.png" />
     </kbd>
-    <kbd style="margin: 5px;">
+    <kbd margin="15px">
         <kbd>Tecnologías usadas personalmente</kbd>
         <br>
         <br>
