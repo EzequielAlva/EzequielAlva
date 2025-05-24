@@ -1,5 +1,5 @@
-## Boenas, como va.. 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="25" height="25" />
+<h2 align="center">Bienvenido a mi github...</h2>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="40" height="40" />
 
 <!--
 **EzequielAlva/EzequielAlva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
