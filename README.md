@@ -12,7 +12,7 @@
 
 <div style="display:inline-block;" align=center>
 <div style="margin: 15px; display: inline-block;">
-    <kbd style="margin: 15px; display: inline-block;">
+    <kbd style="margin: 10px; display: inline-block;">
         <kbd>Tecnologías aprendidas en la universidad</kbd>
         <br>
         <br>
@@ -23,7 +23,7 @@
         <img width="50" src="https://img.icons8.com/fluency/48/pascal.png" />
     </kbd>
     </div>
-    <div style="margin: 15px; display: inline-block;">
+    <div style="margin: 10px; display: inline-block;">
     <kbd>
         <kbd>Tecnologías usadas personalmente</kbd>
         <br>
