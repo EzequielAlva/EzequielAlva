@@ -23,6 +23,7 @@
         <img width="50" src="https://img.icons8.com/fluency/48/pascal.png" />
     </kbd>
     </div>
+    <br>
     <div style="margin: 10px; display: inline-block;">
     <kbd>
         <kbd>Tecnologías usadas personalmente</kbd>
