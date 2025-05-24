@@ -11,7 +11,7 @@
 <br>
 
 <div style="display:inline-block;" align=center>
-    <kbd>
+    <kbd style="margin: 5px;">
         <kbd>Tecnologías aprendidas en la universidad</kbd>
         <br>
         <br>
@@ -21,12 +21,13 @@
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
         <img width="50" src="https://img.icons8.com/fluency/48/pascal.png" />
     </kbd>
-    <kbd>
+    <kbd style="margin: 5px;">
         <kbd>Tecnologías usadas personalmente</kbd>
         <br>
         <br>
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+        <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
     </kbd>
 </div>
