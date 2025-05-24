@@ -1,4 +1,4 @@
-<h2 align="center">Bienvenido a mi github... <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 50/></h2>
+<h2 align="center">Bienvenido a mi github... <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width="50" height="50"/></h2>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="80" height="80" />
 
 <h3>Hola, soy Brian Perez, estudiante de la carrera de Analista Programador Universitario</h3>
