@@ -6,3 +6,17 @@
 <h3 style="margin-right:10px">Actualmente estoy intentando sobrevivir al tercer año de la carrera </h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull.png" alt="Skull" width="35" height="35" />
 </div>
 <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
+
+<br>
+<br>
+
+<div style="display:inline-block;" align=center>
+    <kbd>
+        <kbd>Front-end</kbd>
+        <br>
+        <br>
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
+        <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+    </kbd>
+</div>
